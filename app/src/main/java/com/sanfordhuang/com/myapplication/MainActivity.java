@@ -49,7 +49,7 @@ public class MainActivity extends Activity {
         // Set up the ViewPager with the sections adapter.
         mViewPager = (ViewPager) findViewById(R.id.pager);
         mViewPager.setAdapter(mSectionsPagerAdapter);
-        Toast.makeText(MainActivity.this, "test", Toast.LENGTH_SHORT).show();
+        Toast.makeText(MainActivity.this, "test88888888888", Toast.LENGTH_SHORT).show();
     }
 
 
